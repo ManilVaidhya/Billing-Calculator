@@ -1,0 +1,13 @@
+RESTAURANT BILL CALCULATOR VER2.0 IN PYTHON
+
+
+**Login Details**
+
+Username: harry
+Password: 1234
+
+
+**Developed By Manil Vaidhya**
+
+
+
